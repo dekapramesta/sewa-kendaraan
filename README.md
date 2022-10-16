@@ -18,4 +18,4 @@ Panduan
 4. Chart terdapat di dashboard admin
 5. Export data excel di menu admin bagian pemesanan
 
--Tambaha Activity Diagram dan PDM
+-Tambahan Activity Diagram dan PDM
