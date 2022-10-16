@@ -165,11 +165,11 @@
                             </div>
                             <div class="form-group">
                                 <label>Sewa</label>
-                                <input type="text" class="form-control datetimepicker" name="tanggalSewa">
+                                <input type="text" class="form-control datetimepicker" name="tanggalSewa" required>
                             </div>
                             <div class="form-group">
                                 <label>BBM</label>
-                                <input type="text" class="form-control" name="bbm">
+                                <input type="text" class="form-control" name="bbm" required>
                             </div>
 
                         </div>
