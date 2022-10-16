@@ -17,3 +17,5 @@ Panduan
 3. Setelah Penyewaan selesai dapat dilakukan penyelsaian sewa di akun admin
 4. Chart terdapat di dashboard admin
 5. Export data excel di menu admin bagian pemesanan
+
+-Tambaha Activity Diagram dan PDM
